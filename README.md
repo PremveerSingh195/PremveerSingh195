@@ -1,18 +1,61 @@
-#  About Me:
-Software Engineer with 3 years of experience in full-stack web development, specializing in the MERN stack (MongoDB, Express.js, React, Node.js) along with strong expertise in PostgreSQL and SQL. Skilled in building scalable, high-performance web applications, maintaining legacy systems, and optimizing database performance. Passionate about writing clean, efficient code and delivering user-centric solutions that enhance functionality and user experience.
+<h1 align="center">Kartik Labhshetwar</h1>
 
+<h3 align="center">AI engineer & Software developer currently building from zero.</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/premveer-singh-b6766017a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Premveer007) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PremveerSingh195&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PremveerSingh195&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PremveerSingh195&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://x.com/code_kartik" target="_blank">twitter</a> •
+  <a href="https://www.linkedin.com/in/kartikcode/" target="_blank">linkedin</a> •
+  <a href="https://github.com/KartikLabhshetwar" target="_blank">github</a> •
+  <a href="mailto:kartik.labhshetwar@gmail.com" target="_blank">email</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=PremveerSingh195&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### 🔷 my goto stack
+- typescript · javascript · python · go · react · next.js · node.js · express · mongoDB · postgresql · prisma · tailwind · langchain · langgraph · pytorch
+  
+
+#### 🔷 current work
+
+- **[BetterShot](https://github.com/KartikLabhshetwar/better-shot)** — Open-source screenshot tool for macOS, alternative to CleanShot X.
+
+- **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
+
+- **[OneURL](https://github.com/KartikLabhshetwar/oneurl)** — Open-source link-in-bio platform for creating profile pages to share links in one place.
+
+- **[Mercurius](https://github.com/KartikLabhshetwar/Mercurius)** — Private, self-destructing chat rooms that automatically expire after 10 minutes.
+
+- **[Mind Mentor AI](https://github.com/KartikLabhshetwar/mind-mentor)** — AI-powered educational assistant that revolutionizes learning through Groq AI and LLMs.
+  
+- **[ScreenShot Studio](https://github.com/KartikLabhshetwar/screenshot-studio)** — A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
+
+- **[Link Preview](https://github.com/KartikLabhshetwar/linkpreview)** - Preview how your links appear on social platforms.
+
+- **[Lazy Commit](https://github.com/KartikLabhshetwar/lazycommit)** — CLI tool that automatically writes git commit messages using AI.
+
+- **[Foliox](https://github.com/KartikLabhshetwar/foliox)** — AI-powered portfolio generator that automatically creates beautiful developer portfolios from GitHub profiles.
+
+- **[Quotick](https://github.com/KartikLabhshetwar/quotick)** — VS Code extension that automatically converts quotes to backticks when typing template literals.
+
+- **[Rebatr](https://github.com/KartikLabhshetwar/rebatr)** - Rebatr is a sophisticated web application that orchestrates live debates between different AI models.
+
+- **[ReadmeLingo](https://github.com/KartikLabhshetwar/ReadMeLingo)** - Translate GitHub repository documentation into 40+ languages using Lingo.dev.
+
+- **[FleetHQ](https://github.com/KartikLabhshetwar/FleetHQ)** - Enterprise drone fleet management system for autonomous operations, mission planning, and real-time monitoring.
+
+- **[Overwhelm Breaker](https://github.com/KartikLabhshetwar/overwhelm-breaker)** - A smart productivity app that helps you break down large projects into manageable tasks, schedule your work, and stay focused.
+
+
+#### 🔷 building from zero
+
+I build from zero. Whether it's frontend, backend, full-stack applications, or AI-powered experiences, I work across the entire development lifecycle. From UI/UX to deployment to user feedback, I care less about technology debates and more about delivering results that people love using.
+
+#### 🔷 currently exploring
+- **AI/ML systems:** Integrating large language models into production applications, understanding model capabilities, and building intelligent user experiences.
+- **Full-stack architecture:** Designing scalable, maintainable systems that span from user interfaces to backend infrastructure.
+- **Developer experience:** Creating tools and extensions that enhance productivity and streamline development workflows.
+- **Systems programming:** Deep diving into Go, in-memory systems, and building high-performance applications.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KartikLabhshetwar&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
