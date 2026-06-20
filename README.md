@@ -1,4 +1,4 @@
-<h1 align="center">Kartik Labhshetwar</h1>
+<!-- <h1 align="center">Kartik Labhshetwar</h1>
 
 <h3 align="center">AI engineer & Software developer currently building from zero.</h3>
 
@@ -58,4 +58,4 @@ I build from zero. Whether it's frontend, backend, full-stack applications, or A
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KartikLabhshetwar&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
+</div> -->
