@@ -1,5 +1,5 @@
-# 💫 About Me:
-Software Engineer with 3 years of experience in full-stack web development,<br>specializing in the MERN stack (MongoDB, Express.js, React, Node.js) along with strong expertise<br>in PostgreSQL and SQL. Skilled in building scalable, high-performance web applications,<br>maintaining legacy systems, and optimizing database performance. Passionate about writing<br>clean, efficient code and delivering user-centric solutions that enhance functionality and user<br>experience.
+#  About Me:
+Software Engineer with 3 years of experience in full-stack web development, specializing in the MERN stack (MongoDB, Express.js, React, Node.js) along with strong expertise in PostgreSQL and SQL. Skilled in building scalable, high-performance web applications, maintaining legacy systems, and optimizing database performance. Passionate about writing clean, efficient code and delivering user-centric solutions that enhance functionality and user experience.
 
 
 ## 🌐 Socials:
